@@ -72,7 +72,7 @@ Timestamps are generated using ctime at the moment of sending.
 
 Data is not persistent — all accounts and messages are lost when the program exits (no file/database storage).
 Runs only in the terminal/console.
-Passwords are stored and displayed in plain text (no encryption).
+Passwords are stored and displayed in plain text (no encryption)
 
 
 🔭 Possible Future Improvements
